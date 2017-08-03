@@ -1,6 +1,6 @@
 <img src="epicodus.png" align="right" />
 
-# README PROJECT SKELETON [![MT](MT-logo.png?raw=true)](https://github.com/sindresorhus/awesome)
+# README PROJECT SKELETON [![MT](MT-logo.png?raw=true&width=100px)](https://github.com/sindresorhus/awesome)
 
 > Technologies Used - Javascript, HTML, Shell. IDE used - Atom.
 
